@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice Projects\\CrudWithoutEntity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|d:\\practice projects\\crudwithoutentity\\crudwithoutentity\\views\\userragistration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|solutionrelative:crudwithoutentity\\views\\userragistration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|d:\\practice projects\\crudwithoutentity\\crudwithoutentity\\views\\userragistration\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|solutionrelative:crudwithoutentity\\views\\userragistration\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|d:\\practice projects\\crudwithoutentity\\crudwithoutentity\\controllers\\userragistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|solutionrelative:crudwithoutentity\\controllers\\userragistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|d:\\practice projects\\crudwithoutentity\\crudwithoutentity\\views\\userragistration\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|solutionrelative:crudwithoutentity\\views\\userragistration\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|d:\\practice projects\\crudwithoutentity\\crudwithoutentity\\views\\userragistration\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|solutionrelative:crudwithoutentity\\views\\userragistration\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|d:\\practice projects\\crudwithoutentity\\crudwithoutentity\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A9FF12-814D-406F-B573-FCFE51FC202B}|CrudWithoutEntity\\CrudWithoutEntity.csproj|solutionrelative:crudwithoutentity\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Views\\UserRagistration\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudWithoutEntity\\Views\\UserRagistration\\Delete.cshtml",
+              "ToolTip": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Views\\UserRagistration\\Delete.cshtml",
+              "RelativeToolTip": "CrudWithoutEntity\\Views\\UserRagistration\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:39:40.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Views\\UserRagistration\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudWithoutEntity\\Views\\UserRagistration\\Edit.cshtml",
+              "ToolTip": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Views\\UserRagistration\\Edit.cshtml",
+              "RelativeToolTip": "CrudWithoutEntity\\Views\\UserRagistration\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:28:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Views\\UserRagistration\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudWithoutEntity\\Views\\UserRagistration\\Create.cshtml",
+              "ToolTip": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Views\\UserRagistration\\Create.cshtml",
+              "RelativeToolTip": "CrudWithoutEntity\\Views\\UserRagistration\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T10:38:32.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Models\\UserClass.cs",
+              "RelativeDocumentMoniker": "CrudWithoutEntity\\Models\\UserClass.cs",
+              "ToolTip": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Models\\UserClass.cs",
+              "RelativeToolTip": "CrudWithoutEntity\\Models\\UserClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:31:42.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Views\\UserRagistration\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudWithoutEntity\\Views\\UserRagistration\\Index.cshtml",
+              "ToolTip": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Views\\UserRagistration\\Index.cshtml",
+              "RelativeToolTip": "CrudWithoutEntity\\Views\\UserRagistration\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T10:23:33.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRagistrationController.cs",
+              "DocumentMoniker": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Controllers\\UserRagistrationController.cs",
+              "RelativeDocumentMoniker": "CrudWithoutEntity\\Controllers\\UserRagistrationController.cs",
+              "ToolTip": "D:\\Practice Projects\\CrudWithoutEntity\\CrudWithoutEntity\\Controllers\\UserRagistrationController.cs",
+              "RelativeToolTip": "CrudWithoutEntity\\Controllers\\UserRagistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:14:57.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

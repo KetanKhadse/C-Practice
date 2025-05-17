@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice Projects\\PracticeCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|d:\\practice projects\\practicecrud\\practicecrud\\practicecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|solutionrelative:practicecrud\\practicecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|d:\\practice projects\\practicecrud\\practicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|solutionrelative:practicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|d:\\practice projects\\practicecrud\\practicecrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|solutionrelative:practicecrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|d:\\practice projects\\practicecrud\\practicecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|solutionrelative:practicecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|d:\\practice projects\\practicecrud\\practicecrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|solutionrelative:practicecrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|d:\\practice projects\\practicecrud\\practicecrud\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|solutionrelative:practicecrud\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|d:\\practice projects\\practicecrud\\practicecrud\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD17851-3814-4492-BCD6-3BC6112D2459}|PracticeCRUD\\PracticeCRUD.csproj|solutionrelative:practicecrud\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeCRUD",
+              "DocumentMoniker": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\PracticeCRUD.csproj",
+              "RelativeDocumentMoniker": "PracticeCRUD\\PracticeCRUD.csproj",
+              "ToolTip": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\PracticeCRUD.csproj",
+              "RelativeToolTip": "PracticeCRUD\\PracticeCRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T19:30:03.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeCRUD\\Program.cs",
+              "ToolTip": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Program.cs",
+              "RelativeToolTip": "PracticeCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:20:06.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PracticeCRUD\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PracticeCRUD\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:50:35.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "PracticeCRUD\\appsettings.json",
+              "ToolTip": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\appsettings.json",
+              "RelativeToolTip": "PracticeCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T07:09:30.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "PracticeCRUD\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "PracticeCRUD\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T12:01:19.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "PracticeCRUD\\Views\\Category\\Update.cshtml",
+              "ToolTip": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "PracticeCRUD\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T12:01:14.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PracticeCRUD\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Practice Projects\\PracticeCRUD\\PracticeCRUD\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PracticeCRUD\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:46:51.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
